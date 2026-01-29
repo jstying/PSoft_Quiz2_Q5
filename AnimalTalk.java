@@ -38,6 +38,7 @@ public class AnimalTalk {
 
 		GenericAnimal G = new GizmoTheCat();
 		System.out.println(G.talk());
+		System.out.println("Hello Jordan!");
 
 		// what does this print?
 		GizmoTheCat G2 = new GizmoTheCat();
