@@ -39,6 +39,8 @@ public class AnimalTalk {
 		GenericAnimal G = new GizmoTheCat();
 		System.out.println(G.talk());
 		System.out.println("Hello Jordan!");
+		System.out.println("UHOH!");
+
 
 		// what does this print?
 		GizmoTheCat G2 = new GizmoTheCat();
@@ -48,3 +50,4 @@ public class AnimalTalk {
 	}
 
 }
+
