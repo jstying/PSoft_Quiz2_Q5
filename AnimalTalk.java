@@ -40,6 +40,7 @@ public class AnimalTalk {
 		System.out.println(G.talk());
 		System.out.println("Hello Jordan!");
 		System.out.println("Hello Jordan2!");
+		System.out.println("UHOH!");
 
 
 		// what does this print?
@@ -50,3 +51,4 @@ public class AnimalTalk {
 	}
 
 }
+
